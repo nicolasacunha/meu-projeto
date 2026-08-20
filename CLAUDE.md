@@ -8,6 +8,8 @@ Contexto do projeto para o Claude. Leia os arquivos de `contexto/` antes de qual
 - `contexto/sobre-mim.md` — quem sou e como trabalho.
 - `contexto/negocio.md` — o que é a IRBIS, oferta e funil.
 - `contexto/cliente.md` — perfil de cliente ideal e critério de qualificação.
+- `contexto/catalogo.md` — o que a IRBIS vende, preços e diferença entre as opções.
+- `contexto/voz.md` — como a IRBIS fala, com exemplos do que é e do que não é.
 - `contexto/decisoes.md` — decisões estruturais já tomadas (não reabrir).
 
 ## Como me ajudar
