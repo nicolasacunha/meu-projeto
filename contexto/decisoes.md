@@ -4,7 +4,8 @@ Registro das decisões estruturais do negócio e do projeto. Cada item = uma dec
 
 ## Comercial
 
-- Contratar/construir apenas um **SDR** (prospecção + qualificação + diagnóstico), não um closer separado nem consultor full-cycle. Eu fecho as vendas, desde que o lead chegue quente.
+- O **SDR** (prospecção + qualificação + diagnóstico) será um **agente de IA rodando 24/7**, não uma nova contratação nem um closer separado. Eu fecho as vendas, desde que o lead chegue quente.
+- O **colaborador comercial** que hoje faz o SDR na mão será **realocado para função de maior valor** quando os agentes assumirem prospecção e qualificação (nova função a definir).
 - Funil oficial: **diagnóstico primeiro, construção vendida depois** (proposta fechada na entrega do diagnóstico).
 - Produto de entrada nomeado comercialmente como **"Diagnóstico de Operação"**.
 - Preço ancorado em **stack de entregáveis × diária de consultor sênior**, com desconto sobre o total.

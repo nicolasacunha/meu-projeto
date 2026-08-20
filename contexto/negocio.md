@@ -14,9 +14,9 @@ IRBIS é um estúdio de IA no modelo Service-as-a-Software: construo e entrego s
 ## Modelo comercial
 
 - Eu fecho as vendas pessoalmente; o que preciso é que o lead chegue quente, com o problema evidenciado e diagnóstico prévio pronto antes da call.
-- Estou estruturando um processo de vendas padrão e um SDR (prospecção + qualificação + diagnóstico) — humano ou, idealmente, agentes de IA rodando 24/7.
+- O SDR (prospecção + qualificação + diagnóstico) hoje é o colaborador comercial, na mão. O plano é construir agentes de IA que assumam esse papel 24/7 e realocar o colaborador para função de maior valor.
 
 ## Estágio
 
-- Negócio em estruturação, saindo do modelo 100% dependente de mim.
+- Negócio em estruturação: já são duas pessoas (eu + colaborador comercial), saindo do modelo dependente só de gente para um comercial com SDR automatizado.
 - Já com casos entregues e novas oportunidades em andamento no pipeline.

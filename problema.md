@@ -2,12 +2,12 @@
 
 ## 1. Quem sofre
 
-Quem sofre sou eu e a IRBIS — sem um SDR rodando 24/7, toda a prospecção, qualificação e diagnóstico dependem de mim. O motor comercial só funciona quando eu estou na frente dele, e para quando eu paro.
+Quem sofre é a IRBIS — o SDR hoje é humano (o colaborador comercial) e roda só no horário dele. Prospecção, qualificação e diagnóstico param quando ele para, e o pipeline fica limitado à disponibilidade de uma pessoa.
 
 ## 2. Como é hoje
 
-Hoje a IRBIS não tem um SDR ativo 24/7. Prospecção e qualificação são feitas na mão, no meu tempo: lead que chega fora do horário espera, oportunidade que aparece de madrugada esfria, e cada etapa até a reunião depende de mim executar manualmente. Sem processo rodando sozinho, a geração de reuniões qualificadas fica limitada pela minha disponibilidade.
+Hoje o SDR da IRBIS é o colaborador comercial, na mão: ele prospecta, agenda, faz follow-up e toca o pipeline dentro do horário de trabalho. Lead que chega fora do horário espera, oportunidade que aparece de madrugada esfria, e a geração de reuniões qualificadas não escala além do que uma pessoa dá conta.
 
 ## 3. O que mudaria
 
-Vou solucionar isso construindo agentes de IA que fazem o meu SDR rodando 24/7 — prospecção, qualificação e diagnóstico prévio de forma contínua e automatizada. O lead chega quente, com o problema já evidenciado e o diagnóstico pronto antes da call, e eu entro pessoalmente só no momento da reunião para atuar e fechar.
+Vou construir agentes de IA que assumam o papel de SDR rodando 24/7 — prospecção, qualificação e diagnóstico prévio, contínuos e automatizados. Com o SDR automatizado, o lead chega quente (problema evidenciado, diagnóstico pronto antes da call), eu entro pessoalmente só na reunião para fechar, e o colaborador comercial é realocado do SDR manual para uma função de maior valor.
